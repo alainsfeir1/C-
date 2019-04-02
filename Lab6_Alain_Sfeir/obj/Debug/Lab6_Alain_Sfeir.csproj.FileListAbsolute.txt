@@ -1,0 +1,10 @@
+D:\EGR1400\LAb\lab6\Lab6_Alain_Sfeir\bin\Debug\Lab6_Alain_Sfeir.exe.config
+D:\EGR1400\LAb\lab6\Lab6_Alain_Sfeir\bin\Debug\Lab6_Alain_Sfeir.exe
+D:\EGR1400\LAb\lab6\Lab6_Alain_Sfeir\bin\Debug\Lab6_Alain_Sfeir.pdb
+D:\EGR1400\LAb\lab6\Lab6_Alain_Sfeir\obj\Debug\Lab6_Alain_Sfeir.csprojAssemblyReference.cache
+D:\EGR1400\LAb\lab6\Lab6_Alain_Sfeir\obj\Debug\Lab6_Alain_Sfeir.frmMain.resources
+D:\EGR1400\LAb\lab6\Lab6_Alain_Sfeir\obj\Debug\Lab6_Alain_Sfeir.Properties.Resources.resources
+D:\EGR1400\LAb\lab6\Lab6_Alain_Sfeir\obj\Debug\Lab6_Alain_Sfeir.csproj.GenerateResource.cache
+D:\EGR1400\LAb\lab6\Lab6_Alain_Sfeir\obj\Debug\Lab6_Alain_Sfeir.csproj.CoreCompileInputs.cache
+D:\EGR1400\LAb\lab6\Lab6_Alain_Sfeir\obj\Debug\Lab6_Alain_Sfeir.exe
+D:\EGR1400\LAb\lab6\Lab6_Alain_Sfeir\obj\Debug\Lab6_Alain_Sfeir.pdb
