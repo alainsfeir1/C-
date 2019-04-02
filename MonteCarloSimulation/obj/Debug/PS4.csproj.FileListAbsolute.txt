@@ -1,0 +1,30 @@
+D:\EGR1400\Problem Solving\ps4\PS4\bin\Debug\PS4.exe.config
+D:\EGR1400\Problem Solving\ps4\PS4\bin\Debug\PS4.exe
+D:\EGR1400\Problem Solving\ps4\PS4\bin\Debug\PS4.pdb
+D:\EGR1400\Problem Solving\ps4\PS4\obj\Debug\PS4.csprojAssemblyReference.cache
+D:\EGR1400\Problem Solving\ps4\PS4\obj\Debug\PS4.frmMain.resources
+D:\EGR1400\Problem Solving\ps4\PS4\obj\Debug\PS4.Properties.Resources.resources
+D:\EGR1400\Problem Solving\ps4\PS4\obj\Debug\PS4.csproj.GenerateResource.cache
+D:\EGR1400\Problem Solving\ps4\PS4\obj\Debug\PS4.csproj.CoreCompileInputs.cache
+D:\EGR1400\Problem Solving\ps4\PS4\obj\Debug\PS4.exe
+D:\EGR1400\Problem Solving\ps4\PS4\obj\Debug\PS4.pdb
+C:\Users\Calvin Y\Documents\PS4\bin\Debug\PS4.exe.config
+C:\Users\Calvin Y\Documents\PS4\bin\Debug\PS4.exe
+C:\Users\Calvin Y\Documents\PS4\bin\Debug\PS4.pdb
+C:\Users\Calvin Y\Documents\PS4\obj\Debug\PS4.csprojAssemblyReference.cache
+C:\Users\Calvin Y\Documents\PS4\obj\Debug\PS4.frmMain.resources
+C:\Users\Calvin Y\Documents\PS4\obj\Debug\PS4.Properties.Resources.resources
+C:\Users\Calvin Y\Documents\PS4\obj\Debug\PS4.csproj.GenerateResource.cache
+C:\Users\Calvin Y\Documents\PS4\obj\Debug\PS4.csproj.CoreCompileInputs.cache
+C:\Users\Calvin Y\Documents\PS4\obj\Debug\PS4.exe
+C:\Users\Calvin Y\Documents\PS4\obj\Debug\PS4.pdb
+C:\Users\Alain-PC\Desktop\PS4\bin\Debug\PS4.exe.config
+C:\Users\Alain-PC\Desktop\PS4\bin\Debug\PS4.exe
+C:\Users\Alain-PC\Desktop\PS4\bin\Debug\PS4.pdb
+C:\Users\Alain-PC\Desktop\PS4\obj\Debug\PS4.csprojAssemblyReference.cache
+C:\Users\Alain-PC\Desktop\PS4\obj\Debug\PS4.frmMain.resources
+C:\Users\Alain-PC\Desktop\PS4\obj\Debug\PS4.Properties.Resources.resources
+C:\Users\Alain-PC\Desktop\PS4\obj\Debug\PS4.csproj.GenerateResource.cache
+C:\Users\Alain-PC\Desktop\PS4\obj\Debug\PS4.csproj.CoreCompileInputs.cache
+C:\Users\Alain-PC\Desktop\PS4\obj\Debug\PS4.exe
+C:\Users\Alain-PC\Desktop\PS4\obj\Debug\PS4.pdb
